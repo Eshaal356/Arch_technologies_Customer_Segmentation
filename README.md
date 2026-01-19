@@ -64,4 +64,3 @@ The interface uses a custom theme focusing on "Dark Mode" aesthetics with:
 -   **Fonts**: 'Plus Jakarta Sans', 'Outfit', and 'Inter' for a modern, tech-forward look.
 
 ---
-*Powered by Arch Technologies*
